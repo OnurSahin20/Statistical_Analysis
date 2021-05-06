@@ -9,7 +9,7 @@ Methods which we can use:
 4) Testing distributions and finding best fitting probablity distibution (normal , lognormal, gamma, loggamma)
 5) Changing missing values to median of months column
 6) Choosing stations with minimum year period and percentage of missing values
-7) 7 stationarity test
+7) Stationarity test
 8) Homogeneity Tests
 
 5 Homogeneity tests are 
